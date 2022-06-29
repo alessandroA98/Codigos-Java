@@ -1,0 +1,34 @@
+1- protocolo de requisição e resposta.
+
+
+2-GET,POST,PUT,DELETE.
+3- O método GET analisa se tem as informaçoes no banco de dados e faz a  requisição de login.
+  O método POST cria um par nome/valor que são guardados no banco de dados.
+
+4-requisições (requests) enviadas pelo cliente para disparar uma ação no servidor, e respostas (responses), a réplica do servidor. 
+5-HTTP tem, basicamente, três partes: request line, headers e body.
+
+6- O método HTTP GET solicita uma representação do recurso especificado. Solicitações usando GET só devem recuperar dados.
+
+7-Em suma, o HTTPS “blinda” o que você vê online, protegendo dados extremamente valiosos de terceiros, tal qual senhas, logins, números de cartões de crédito, endereços e números de telefones.
+
+8-são get, post, put e delete.
+
+9-O Protocolo de Internet versão 4 possui endereços no padrão 32 bits e sustenta cerca de 4 bilhões de combinações de endereços IP em todo o mundo. Já o IPv6 é a versão 6 do Protocolo de Internet, com endereços no padrão 128 bits, permitindo, portanto, cerca de 340 undecilhões de endereços.
+
+10- 
+O que é HTTP = O HTTP (Hypertext Transfer Protocol ou Protocolo de Transferência de Hipertexto em português) é um protocolo que especifica como será a comunicação entre um navegador e um servidor web, sendo um dos principais da World Wide Web (WWW).
+
+TCP = O TCP (Transmission Control Protocol) é o protocolo mais utilizado na camada de Transporte e como falado anteriormente, ele pode tanto quebrar a informação em pacotes quanto organizar de forma a colocar em ordem a mensagem
+
+IP = Endereço IP significa “endereço do Protocolo de Internet”. O Protocolo de Internet é um conjunto de regras para comunicação pela internet para envio de e-mail, streaming de vídeo ou conexão a um site. Um endereço IP identifica uma rede ou dispositivo na internet.
+
+UDP = é um protocolo de transporte em tempo real sem conexão, que oferece um processo de comunicação mais rápido, mas com pouca confiabilidade
+
+SMTP = é o responsável por garantir que os e-mails que você envia diariamente cheguem aos destinatários.
+
+FTP = é a sigla para File Transfer Protocol, significa Protocolo de Transferência de Arquivos. Ele é basicamente um tipo de conexão que permite a troca de arquivos entre dois computadores conectados à internet.
+
+
+
+
